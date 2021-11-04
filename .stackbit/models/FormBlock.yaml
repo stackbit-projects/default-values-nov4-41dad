@@ -20,7 +20,7 @@ fields:
     default:
       - type: TextFromControl
         label: name
-        
+        name: name
   - type: string
     name: submitLabel
     label: Submit button label

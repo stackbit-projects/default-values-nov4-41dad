@@ -57,6 +57,5 @@ fields:
     default: /.netlify/functions/submission_created
   - type: string
     name: destination
-    group: settings
     label: Destination (email to redirect responses)
     destination: ''

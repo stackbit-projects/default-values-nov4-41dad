@@ -18,6 +18,8 @@ fields:
         - CheckboxFormControl
         - SelectFormControl
     default:
+      - type: TextFromControl
+        
   - type: string
     name: submitLabel
     label: Submit button label

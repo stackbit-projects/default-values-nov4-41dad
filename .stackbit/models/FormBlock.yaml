@@ -25,6 +25,11 @@ fields:
         isRequired: true
         width: 1/2
       - type: EmailFormControl
+        label: Email
+        name: email
+        placeholder: Your name
+        isRequired: true
+        width: 1/2
   - type: string
     name: submitLabel
     label: Submit button label

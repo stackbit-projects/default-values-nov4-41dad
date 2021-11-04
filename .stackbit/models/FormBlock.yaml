@@ -31,7 +31,7 @@ fields:
     name: action
     group: settings
     label: Action (form submission URL)
-    default: 
+    default: /.netlify/functions/submission_created
   - type: string
     name: destination
     group: settings

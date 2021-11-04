@@ -25,7 +25,6 @@ fields:
     name: elementId
     group: settings
     label: Element ID
-    default: "contact-form"
     description: The unique ID used for id and name attributes, must not contain whitespace
   - type: string
     name: action

@@ -59,3 +59,4 @@ fields:
     name: destination
     label: Destination (email to redirect responses)
     destination: ''
+    group: settings

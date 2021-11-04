@@ -17,8 +17,8 @@ fields:
         - TextareaFormControl
         - CheckboxFormControl
         - SelectFormControl
-      default:
-        - type: TextFormControl
+    default:
+      - type: TextFormControl
           label: Name
           name: name
           placeholder: Your name

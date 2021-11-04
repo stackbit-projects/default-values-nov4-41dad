@@ -17,6 +17,7 @@ fields:
         - TextareaFormControl
         - CheckboxFormControl
         - SelectFormControl
+    default:
   - type: string
     name: submitLabel
     label: Submit button label

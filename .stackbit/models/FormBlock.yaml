@@ -19,7 +19,7 @@ fields:
         - SelectFormControl
     default:
       - type: TextFromControl
-        label: name
+        label: Name
         name: name
         placeholder: Your name
   - type: string

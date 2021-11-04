@@ -31,8 +31,8 @@ fields:
         isRequired: true
         width: 1/2
       - type: TextFromControl
-        label: Address
-        name: name
+        label: Home Address
+        name: home-address
         placeholder: Your name
         isRequired: true
         width: 1/2

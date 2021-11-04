@@ -19,6 +19,7 @@ fields:
         - SelectFormControl
     default:
       - type: TextFromControl
+        label: name
         
   - type: string
     name: submitLabel

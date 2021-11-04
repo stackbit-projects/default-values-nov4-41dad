@@ -33,8 +33,8 @@ fields:
       - type: TextFromControl
         label: Home Address
         name: home-address
-        placeholder: Your name
-        isRequired: true
+        placeholder: Your home address
+        isRequired: false
         width: full
   - type: string
     name: submitLabel

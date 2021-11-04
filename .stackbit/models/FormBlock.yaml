@@ -19,27 +19,27 @@ fields:
         - SelectFormControl
     default:
       - type: TextFormControl
-          label: Name
-          name: name
-          placeholder: Your name
-          isRequired: true
-          width: 1/2
-        - type: EmailFormControl
-          label: Email
-          name: email
-          placeholder: Your email
-          isRequired: true
-          width: 1/2
-        - type: TextFromControl
-          label: Home Address
-          name: home-address
-          placeholder: Your home address
-          isRequired: false
-          width: full
-        - type: CheckboxFormControl
-          name: updates
-          label: Sign me up to receive updates
-          width: full
+        label: Name
+        name: name
+        placeholder: Your name
+        isRequired: true
+        width: 1/2
+      - type: EmailFormControl
+        label: Email
+        name: email
+        placeholder: Your email
+        isRequired: true
+        width: 1/2
+      - type: TextFromControl
+        label: Home Address
+        name: home-address
+        placeholder: Your home address
+        isRequired: false
+        width: full
+      - type: CheckboxFormControl
+        name: updates
+        label: Sign me up to receive updates
+        width: full
   - type: string
     name: submitLabel
     label: Submit button label

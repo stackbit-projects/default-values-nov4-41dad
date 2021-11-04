@@ -35,7 +35,7 @@ fields:
         name: home-address
         placeholder: Your name
         isRequired: true
-        width: 1/2
+        width: full
   - type: string
     name: submitLabel
     label: Submit button label

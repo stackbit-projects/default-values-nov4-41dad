@@ -23,6 +23,8 @@ fields:
         name: name
         placeholder: Your name
         isRequired: true
+        width: 1/2
+      - type: 
   - type: string
     name: submitLabel
     label: Submit button label

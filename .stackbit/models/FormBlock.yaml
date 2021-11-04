@@ -27,7 +27,7 @@ fields:
       - type: EmailFormControl
         label: Email
         name: email
-        placeholder: Your name
+        placeholder: Your email
         isRequired: true
         width: 1/2
   - type: string
